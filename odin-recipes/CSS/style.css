@@ -1,0 +1,36 @@
+p {
+    background-color: rgb(244, 236, 225);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+
+}
+
+h1 {
+    color:rgb(95, 109, 219)
+}
+
+.nav-pages{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 16px;
+}
+
+li {
+    display:inline;
+    margin: 4px;
+
+}
+
+footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 14px;
+   margin: 20px;
+   text-align: center;
+   color: darkcyan;
+}
+
+.footer-figure{
+    margin-top: 1px;
+    color:rgb(63, 7, 7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
