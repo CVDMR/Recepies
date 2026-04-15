@@ -14,7 +14,7 @@ h1 {
    font-size: 16px;
 }
 
-li {
+.nav-pages li {
     display:inline;
     margin: 4px;
 
@@ -33,4 +33,25 @@ footer{
     color:rgb(63, 7, 7);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+}
+.ingredients li {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkred;
+    font-size: 20px;
+}
+
+li::marker {
+    color:rgb(95, 109, 219);
+    font-size: 0.9em;
+    display: list-item;
+    /* content: '!'; */
+    
+}
+
+.steps {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkred;
+    font-size: 20px;
 }
